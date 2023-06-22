@@ -1,0 +1,39 @@
+.container a {color:darkorange;}
+
+.mercy1:link {color: aqua;} 
+.mercy2:link {color: darksalmon;}
+.mercy3:link{color: lime;}
+.mercy4:link{color: indigo;}
+
+
+.contain {
+    height: 500px;
+    width: 500px;
+    border: 5px solid purple;
+}
+.item1 
+{
+    
+    height: 150px; 
+    width: 150px;
+    background: aqua;
+    
+}
+
+.item2 
+
+{
+    height: 150px;
+    width: 150px;
+    background-color:green;
+
+
+}
+
+.contain{
+    height:50 ;
+}
+
+#firstchild
+ {color: red;
+}
